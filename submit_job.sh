@@ -24,4 +24,4 @@
 module load pytorch/1.12.1
 nvidia-smi
 python --version
-python test_torch.sh
+python test_torch.py
